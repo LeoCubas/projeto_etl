@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-teste-291214",
+  "private_key_id": "fb2d5b26358b65ad5bb0bf8d56a0e16c17491dca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqDFCKfyQfbOzM\ntQunJPvMhpAyyKt3e+MZpm8kLquFHO4BqSeX4x9e0LUA4J2nrn6Mi6n+jkPJLfFl\nmkf4xljvZOz8oXDNUPwZj5/nclb9MaO/EVTOh7Pm8dSOVR2YsReqk9LrshKGysGd\nLw0RrrXRtRXSBZr/cWFAs2ScoWjr3pbOToYIR7bZrw695zCQO+Lw3iz/8N+zd2kg\nfG0xRNLWsKbl4eXt1W7+KGTk/IwITQqDzl53tMktNcrnYrlrI4JGKulCoIlHsz4v\nhS1uYGvqT9XWHA7BG0QiaFFfth4UdMu00MYWDqj+76dE4eOlJIYOqogFDAVsY4Am\nMhsLJpnHAgMBAAECggEACl2jzz1+2zeNm9Dxe+fiPY56Xc4jva3coySlI8SAiiXA\nUHOaSUT8FZCNaBdJJP6bEkA1RaIweaQGUhY8iuq0Yyt40tGYibuFEp3Rto8exGJx\nQ+VvkQNusQZO2bpQio1JDwnh0qJRRMw5TzaeClTnGnh6cwoKb8Xeks4ctPuV5MLc\nZ4XcqgpQy+nkxZ9k0Hwzkg+MqLzXeuO/n8LIa8jhonCMguF3feKEHvjkANy2dWfY\nHj+iT7zVIx4C9Gg88zHfQmw/TDPMVBy5hLSnjPdT0OQyXCoceWk3TZi0zzWMB8E8\nOlQm0CMry6E/GPE6GhejxClayVFlQu1b0n0LM8becQKBgQDUZynk9dd6GWPmE6Pw\ns+/gdo8eYn+iG6OeQMKs2CUcLmZk3Q20vcSiZHBnuK2yO+zHjwdKX8WI2SzV8Owh\n+2+kx8ojy6/bKwQMPVn+ouYjFdjueIXID+/O6W1JlpcOVRPqU4aQS1beRYBwACI/\n1JRGVoNAqtfqYnFN6OOZ3uXjHwKBgQDM85bvo/czURIFAONr9JUOs0SxrjMBPzCc\nk1Dnl8Zb5j5oAac/hOg8c/mLYfYUS79zdXdkGxC1iLMFVyXT5nRVLSfzQMlNCVQp\nNBiVSIF5tYNRtyQLYm9msDupRdzJj35bvKTPb/tFxVnEO5B5X4rwdwpRXq1vqwDz\nYv6NbHTcWQKBgQC0MBR1XS2AMnvyGiVQtIVB6bI+N5dJQaNLRGsiUHci8iYBWRog\ng4CFtyk4hI4uDvIu1SJ9MMQV9Q85K5pWtcQfiTHtrgUwq8xSSdXH1A/iIc2XeH0d\nnI92+8Wv0OWyzfAIMPWOAavfAh0UZrinZ8Kl7QyJ1qU2/G5chr5WsaZaRwKBgC8d\niINKtFdtubDAxYdZ0LJyb8ZQ/5S3zBsSmrTC5WzW/121k5c8nI7ZMnLicEm2KCsI\nxAuVVUAGTvFZWW7fObsjCF4ZdK1rCZf3S/d1lZ4/JhMxAO5FEMsQlIaTcvA7Npcs\nRM8TNTaS6dH8x3e/iRdCpnKSS1iyfSN2jIJCfpLxAoGALB0TcCfHcSJoveBfT6Ua\nBS3gqSdhkiuZhfBpNWLIgzFQ+9jGtB7zMyL3nktV3RY9nlIqL4LwwOGmZ41s3uDF\n/RdrrC0s2jfiKuFQm8qZTP2L9ljfTmRwtyOAnbIsJP0NWR7svdPB7I1otBCt8BPV\nh7mIS0SJvWjVrYt++34vU+M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-northwind@projeto-teste-291214.iam.gserviceaccount.com",
+  "client_id": "113315133938140807628",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-northwind%40projeto-teste-291214.iam.gserviceaccount.com"
+}

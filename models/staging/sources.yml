@@ -12,6 +12,9 @@ sources:
           tests: 
             - unique
             - not_null
+            
+      - name: order_details
+        description: this table contains informations about the Northwind order_details     
 
       - name: products
         description: this table contains informations about the Northwind Products

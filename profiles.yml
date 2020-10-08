@@ -4,7 +4,7 @@ northwind_shop:
     dev:
         type: bigquery
         method: service-account
-        keyfile: projeto-teste-291214-54e132009bc7.json
+        keyfile: projprojeto-teste-291214-fb2d5b26358b.json
         project: projeto-teste-291214
         dataset: dbt_leonardo
         threads: 1
